@@ -1,0 +1,15 @@
+.form-group, .form-group::placeholder{
+    color: #000000;
+}
+.auto-order-popup{
+    padding-top: 0px;
+}
+.auto-order-popup .packages .form-group{
+    margin-bottom: 5px;
+}
+.auto-order-popup .packages .form-control{
+    min-height: 36px;
+    height: 36px;
+}
+
+
